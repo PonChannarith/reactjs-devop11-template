@@ -1,7 +1,7 @@
 # condition ( when to run this ? )
 on: 
   push: 
-    branches: ["masterfasdfasdf"]
+    branches: ["master123"]
 
 # server-url 
 # password -> access token 
